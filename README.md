@@ -1,5 +1,5 @@
 # Staj-Dersi-
-adam asmaca oyunu 
+ADAM ASMACA OYUNU 
 Bu proje, klasik Adam Asmaca oyununun Python ile geliştirilmiş basit bir konsol uygulamasıdır. Oyuncuların Türkçe kelimeleri tahmin ederek keyifli vakit geçirmesini sağlar.
 
 Çözülen Sorunlar 
